@@ -1,0 +1,439 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20170524</CreaDate>
+		<CreaTime>14425800</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">kern2013</itemName>
+				<imsContentType Sync="TRUE" export="False">002</imsContentType>
+				<nativeExtBox>
+					<westBL Sync="TRUE">5932941.608615</westBL>
+					<eastBL Sync="TRUE">6638026.179504</eastBL>
+					<southBL Sync="TRUE">2120660.221375</southBL>
+					<northBL Sync="TRUE">2479740.935313</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<itemSize Sync="TRUE">3.134</itemSize>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\itsfile01\AGCOMM\Wrkgrps\GIS\Johnson\kern1997_2016\kern2013.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.4'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_California_V_FIPS_0405_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,6561666.666666666],PARAMETER[&amp;quot;False_Northing&amp;quot;,1640416.666666667],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-118.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,34.03333333333333],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,35.46666666666667],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,33.5],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,2229]]&lt;/WKT&gt;&lt;XOrigin&gt;-117608900&lt;/XOrigin&gt;&lt;YOrigin&gt;-91881400&lt;/YOrigin&gt;&lt;XYScale&gt;36269466.692146368&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102645&lt;/WKID&gt;&lt;LatestWKID&gt;2229&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20170524</SyncDate>
+		<SyncTime>14425800</SyncTime>
+		<ModDate>20170524</ModDate>
+		<ModTime>14494200</ModTime>
+		<scaleRange>
+			<minScale>150000000</minScale>
+			<maxScale>5000</maxScale>
+		</scaleRange>
+		<ArcGISProfile>FGDC</ArcGISProfile>
+	</Esri>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.0.5524</envirDesc>
+		<dataLang>
+			<languageCode value="eng" Sync="TRUE"/>
+			<countryCode value="USA" Sync="TRUE"/>
+		</dataLang>
+		<idCitation xmlns="">
+			<resTitle Sync="FALSE">Kern County Crop Boundaries (2013)</resTitle>
+			<presForm xmlns="">
+				<PresFormCd value="005" Sync="TRUE"/>
+			</presForm>
+			<date>
+				<pubDate>2017-04-18T08:00:00</pubDate>
+			</date>
+			<citRespParty xmlns="">
+				<rpOrgName>Kern County Department of Agriculture and Measurement Standards</rpOrgName>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+			</citRespParty>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd value="001" Sync="TRUE"/>
+		</spatRpType>
+		<dataExt xmlns="">
+			<geoEle xmlns="">
+				<GeoBndBox esriExtentType="search">
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+					<westBL Sync="TRUE">-120.119735</westBL>
+					<eastBL Sync="TRUE">-117.742518</eastBL>
+					<northBL Sync="TRUE">35.806130</northBL>
+					<southBL Sync="TRUE">34.801618</southBL>
+				</GeoBndBox>
+			</geoEle>
+			<exDesc>The year (and optionally month, or month and day) for which the data set corresponds to the ground.</exDesc>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Period xmlns="">
+							<tmBegin>2013-01-01T00:00:00</tmBegin>
+							<tmEnd>2013-12-31T00:00:00</tmEnd>
+						</TM_Period>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<idPurp>The Department of Agriculture and Measurement Standards issues annual permits to growers who intend to apply restricted materials to commercial crop locations.  Each grower must hold a current permit before he/she can purchase these materials.  California regulations require that maps of cropland for which the grower is responsible be included in this permitting process.  This dataset helps the department assess each site for California Environmental Quality Act (CEQA) equivalency, proximity to sensitive areas, create standardized maps for all sites, and compile a history of land use for Kern County.</idPurp>
+		<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;The Kern County Department of Agriculture and Measurement Standards created this dataset to more precisely locate production agricultural field boundaries within the county.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+		<idCredit>Inspectors created and maintained this database throughout the year as part of the permitting/supplementing process.</idCredit>
+		<searchKeys>
+			<keyword>Agriculture</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts xmlns="">
+				<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;There are no restrictions on use of these data.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+			</Consts>
+		</resConst>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<idStatus>
+			<ProgCd value="001"/>
+		</idStatus>
+		<idPoC xmlns="">
+			<rpIndName>Mark R. Sabin</rpIndName>
+			<rpOrgName>Kern County Department of Agriculture and Measurement Standards</rpOrgName>
+			<rpPosName>GIS Programmer/Analyst</rpPosName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+			<rpCntInfo xmlns="">
+				<cntAddress addressType="physical">
+					<delPoint>1001 South Mount Vernon Avenue</delPoint>
+					<city>Bakersfield</city>
+					<adminArea>CA</adminArea>
+					<postCode>93307</postCode>
+					<eMailAdd>sabinm@co.kern.ca.us</eMailAdd>
+					<country>US</country>
+				</cntAddress>
+				<cntPhone>
+					<voiceNum tddtty="">(661)868-6300</voiceNum>
+					<faxNum>(661)868-6301</faxNum>
+				</cntPhone>
+				<cntHours>M-F  8:00 a.m. - 5:00 p.m. Excluding Holidays</cntHours>
+			</rpCntInfo>
+			<displayName>Mark R. Sabin</displayName>
+		</idPoC>
+		<resMaint xmlns="">
+			<maintFreq>
+				<MaintFreqCd value="006"/>
+			</maintFreq>
+		</resMaint>
+		<resConst>
+			<LegConsts xmlns="">
+				<useLimit>There are no restrictions on use of these data.</useLimit>
+			</LegConsts>
+		</resConst>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode value="eng" Sync="TRUE"/>
+		<countryCode value="USA" Sync="TRUE"/>
+	</mdLang>
+	<mdChar>
+		<CharSetCd value="004" Sync="TRUE"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005" Sync="TRUE"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode code="2229" Sync="TRUE"/>
+				<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+				<idVersion Sync="TRUE">5.3(9.0.0)</idVersion>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs Name="kern2013">
+				<geoObjTyp>
+					<GeoObjTypCd value="002" Sync="TRUE"/>
+				</geoObjTyp>
+				<geoObjCnt Sync="TRUE">13997</geoObjCnt>
+			</geometObjs>
+			<topLvl>
+				<TopoLevCd value="001" Sync="TRUE"/>
+			</topLvl>
+		</VectSpatRep>
+	</spatRepInfo>
+	<spdoinfo>
+		<ptvctinf>
+			<esriterm Name="kern2013">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom code="4" Sync="TRUE"/>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">13997</efeacnt>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed Name="kern2013" xmlns="">
+			<enttyp>
+				<enttypl Sync="TRUE">kern2013</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">13997</enttypc>
+			</enttyp>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PERMIT</attrlabl>
+				<attalias Sync="TRUE">PERMIT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Permit - Uniquely identifies an individual grower through time. Each grower maintains the same permit number from year to year. First time permittees obtain a new, never before used permit number in order to avoid same values that reference different growers through time.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">SITEID</attrlabl>
+				<attalias Sync="TRUE">SITEID</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Site Identification - Uniquely identifies each permitted site (polygon) on a grower permit. This value will not be duplicated on the same permit in the same year.  These values may be used again from year to year by a permittee but may not always reference the same piece of ground from year to year (i.e. Site ID 122A may be referenced on an individual permit over many years, but may not always refer to the same piece of ground each year).</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">P_STATUS</attrlabl>
+				<attalias Sync="TRUE">P_STATUS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Primary Status - Defines whether a polygon is (A)ctive or i(N)active.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">S_STATUS</attrlabl>
+				<attalias Sync="TRUE">S_STATUS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Secondary Status - Defines whether a polygon is (A) single permitted site at one time, an (I)nterplanted site in which there are exactly two commodities permitted for the same piece of ground at the same time (First used in 2002), or a (M)ultiple site in which there are three or more commodities permitted for the same piece of ground at the same time (First used in 2005). The (M) designation is used to generally define a piece of ground with numerous very small (&lt;1 acre) intermingled vegetable crop sites.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">DT_ACT</attrlabl>
+				<attalias Sync="TRUE">DT_ACT</attalias>
+				<attrtype Sync="TRUE">Date</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Date Activated - Polygon addition date.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">OP_ACT</attrlabl>
+				<attalias Sync="TRUE">OP_ACT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Operator Activated - Inspector who added the polygon to the database.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">DT_INACT</attrlabl>
+				<attalias Sync="TRUE">DT_INACT</attalias>
+				<attrtype Sync="TRUE">Date</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Date Inactivated - Date the polygon (site) was replaced by another polygon (site) or December 31st for sites active at the end of the calendar year.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">OP_INACT</attrlabl>
+				<attalias Sync="TRUE">OP_INACT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Operator Inactivated - Inspector who archived the polygon.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PMT_SITE</attrlabl>
+				<attalias Sync="TRUE">PMT_SITE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Permit-Site - Concatenated value which serves as the unique identifier for each polygon in this database.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">COMM</attrlabl>
+				<attalias Sync="TRUE">COMM</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">30</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Commodity - Common name for the permitted crop represented by this polygon.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">TOWNSHIP</attrlabl>
+				<attalias Sync="TRUE">TOWNSHIP</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Township – Public Land Survey System (PLSS) Township.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">RANGE</attrlabl>
+				<attalias Sync="TRUE">RANGE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Range – Public Land Survey System (PLSS) Range.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">SECTION</attrlabl>
+				<attalias Sync="TRUE">SECTION</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Section – Public Land Survey (PLSS) Section.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PERMITTEE</attrlabl>
+				<attalias Sync="TRUE">PERMITTEE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Permittee – Farming entity name.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">AGENT</attrlabl>
+				<attalias Sync="TRUE">AGENT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">45</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Agent Name – Primary permit holder's name.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">MAILING</attrlabl>
+				<attalias Sync="TRUE">MAILING</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing Address – Primary permit holder's address or farm headquarters.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">CITY</attrlabl>
+				<attalias Sync="TRUE">CITY</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">100</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing City – Primary permit holder's city.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">STATE</attrlabl>
+				<attalias Sync="TRUE">STATE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing State – Primary permit holder's state.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">ZIP</attrlabl>
+				<attalias Sync="TRUE">ZIP</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing Zip – Primary permit holder's zip code.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">ACRES</attrlabl>
+				<attalias Sync="TRUE">ACRES</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Acres Permitted – Grower-provided net planted acres for the site.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PMT_YEAR</attrlabl>
+				<attalias Sync="TRUE">PMT_YEAR</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Permit Year – Calendar year for which the polygon is active.  Inspectors begin issuing annual permits in December of the previous year and sometimes enter polygons after the end of the calendar year.</attrdef>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20170524</mdDateSt>
+	<mdContact xmlns="">
+		<rpIndName>Mark R. Sabin</rpIndName>
+		<rpOrgName>Kern County Department of Agriculture and Measurement Standards</rpOrgName>
+		<rpPosName>GIS Programmer/Analyst</rpPosName>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+		<rpCntInfo xmlns="">
+			<cntAddress addressType="physical">
+				<delPoint>1001 South Mount Vernon Avenue</delPoint>
+				<city>Bakersfield</city>
+				<adminArea>CA</adminArea>
+				<postCode>93307</postCode>
+				<eMailAdd>sabinm@co.kern.ca.us</eMailAdd>
+				<country>US</country>
+			</cntAddress>
+			<cntPhone>
+				<voiceNum tddtty="">(661)868-6300</voiceNum>
+				<faxNum>(661)868-6301</faxNum>
+			</cntPhone>
+			<cntHours>M-F  8:00 a.m. - 5:00 p.m. Excluding Holidays</cntHours>
+		</rpCntInfo>
+	</mdContact>
+	<mdMaint xmlns="">
+		<maintFreq>
+			<MaintFreqCd value="006"/>
+		</maintFreq>
+	</mdMaint>
+</metadata>

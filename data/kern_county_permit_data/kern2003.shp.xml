@@ -1,0 +1,899 @@
+<metadata>
+	<Esri>
+		<CreaDate>20031231</CreaDate>
+		<CreaTime>14073800</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20170524</SyncDate>
+		<SyncTime>10222800</SyncTime>
+		<ModDate>20170524</ModDate>
+		<ModTime>10305500</ModTime>
+		<Sync>FALSE</Sync>
+		<MetaID>{E83BA987-BD2B-40E7-9373-022BECD974C3}</MetaID>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">kern2003</itemName>
+				<nativeExtBox>
+					<westBL Sync="TRUE">5932895.829864</westBL>
+					<eastBL Sync="TRUE">6638032.179618</eastBL>
+					<southBL Sync="TRUE">2120623.356037</southBL>
+					<northBL Sync="TRUE">2479595.803488</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<itemSize Sync="TRUE">2.090</itemSize>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\itsfile01\AGCOMM\Wrkgrps\GIS\Johnson\kern1997_2016\kern2003.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+				<imsContentType Sync="TRUE" export="False">002</imsContentType>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.4'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_California_V_FIPS_0405_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,6561666.666666666],PARAMETER[&amp;quot;False_Northing&amp;quot;,1640416.666666667],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-118.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,34.03333333333333],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,35.46666666666667],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,33.5],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,2229]]&lt;/WKT&gt;&lt;XOrigin&gt;-117608900&lt;/XOrigin&gt;&lt;YOrigin&gt;-91881400&lt;/YOrigin&gt;&lt;XYScale&gt;36269466.692146368&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102645&lt;/WKID&gt;&lt;LatestWKID&gt;2229&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<scaleRange>
+			<minScale>150000000</minScale>
+			<maxScale>5000</maxScale>
+		</scaleRange>
+		<ArcGISProfile>FGDC</ArcGISProfile>
+	</Esri>
+	<idinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>The Kern County Department of Agriculture and Measurement Standards created this dataset to more precisely locate production agricultural field boundaries within the county.</abstract>
+			<purpose>The Department of Agriculture and Measurement Standards issues annual permits to growers who intend to apply restricted materials to commercial crop locations. Each grower must hold a current permit before he/she can purchase these materials. California regulations require that maps of cropland for which the grower is responsible be included in this permitting process. This dataset helps the department assess each site for California Environmental Quality Act (CEQA) equivalency, proximity to sensitive areas, create standardized maps for all sites, and compile a history of land use for Kern County.</purpose>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>Kern County Department of Agriculture and Measurement Standards</origin>
+				<pubdate>December 31, 2003</pubdate>
+				<title Sync="TRUE">Kern County Crop Boundaries (2003)</title>
+				<ftname Sync="TRUE">Kern2003</ftname>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubtime>8:00 a.m.</pubtime>
+				<edition>Final</edition>
+				<onlink>\\ag-gispermit\GIS\kgis2003\final_crops\kern2003.shp</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Coincides with annual permit issuance.</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>January 1, 2003</begdate>
+					<enddate>December 31, 2003</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None Planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-138.152567</westbc>
+				<eastbc Sync="TRUE">-138.152559</eastbc>
+				<northbc Sync="TRUE">27.196042</northbc>
+				<southbc Sync="TRUE">27.196038</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">-120.116808</leftbc>
+				<rightbc Sync="TRUE">-117.743047</rightbc>
+				<bottombc Sync="TRUE">34.816510</bottombc>
+				<topbc Sync="TRUE">35.798175</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>farm, farming, crops, cropland, restricted materials, pesticide use, permitting, CA agriculture, cropping patterns</themekt>
+				<themekey>Agriculture</themekey>
+			</theme>
+		</keywords>
+		<accconst>These are public domain data.</accconst>
+		<useconst>There are no restrictions on use of these data.</useconst>
+		<natvform Sync="TRUE">Shapefile</natvform>
+		<datacred>Inspectors created and maintained this database throughout the year as part of the permitting/supplementing process.</datacred>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Kern County Department of Agriculture and Measurement Standards</cntorg>
+					<cntper>Mark R. Sabin</cntper>
+				</cntorgp>
+				<cntpos>GIS Programmer/Analyst</cntpos>
+				<cntvoice>(661)868-6300</cntvoice>
+				<cntfax>(661)868-6301</cntfax>
+				<cntemail>sabinm@co.kern.ca.us</cntemail>
+				<hours>M-F  8:00 a.m. - 5:00 p.m. Excluding Holidays</hours>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1001 South Mount Vernon Avenue</address>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93307</postal>
+					<country>USA</country>
+				</cntaddr>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntper>Mark R. Sabin</cntper>
+					<cntorg>Kern County Department of Agriculture and Measurement Standards</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93307</postal>
+					<address>1001 South Mount Vernon Avenue</address>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(661) 868-6300</cntvoice>
+				<cntfax>(661) 868-6301</cntfax>
+				<cntemail>sabinm@co.kern.ca.us</cntemail>
+				<cntpos>GIS Programmer/Analyst</cntpos>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20031231</metd>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+	</metainfo>
+	<distinfo>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">2.766</transize>
+					<dssize Sync="TRUE">2.766</dssize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<rngdates>
+					<begdate>January 1, 2003</begdate>
+					<enddate>December 31, 2003</enddate>
+				</rngdates>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<esriterm Name="kern2003">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom code="4" Sync="TRUE"/>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">13162</efeacnt>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</projcsn>
+			</cordsysn>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<plandu Sync="TRUE">survey feet</plandu>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+				</planci>
+			</planar>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="kern2003" xmlns="">
+			<enttyp>
+				<enttypl Sync="TRUE">kern2003</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">13162</enttypc>
+			</enttyp>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrmfrq>None planned</attrmfrq>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PERMIT</attrlabl>
+				<attalias Sync="TRUE">PERMIT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<attrdef Sync="TRUE">Permit - Uniquely identifies an individual grower through time. Each grower maintains the same permit number from year to year. First time permittees obtain a new, never before used permit number in order to avoid same values that reference different growers through time.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">SITEID</attrlabl>
+				<attalias Sync="TRUE">SITEID</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<attrdef Sync="TRUE">Site Identification - Uniquely identifies each permitted site (polygon) on a grower permit. This value will not be duplicated on the same permit in the same year.  These values may be used again from year to year by a permittee but may not always reference the same piece of ground from year to year (i.e. Site ID 122A may be referenced on an individual permit over many years, but may not always refer to the same piece of ground each year).</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">P_STATUS</attrlabl>
+				<attalias Sync="TRUE">P_STATUS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdef Sync="TRUE">Primary Status - Defines whether a polygon is (A)ctive or i(N)active.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">S_STATUS</attrlabl>
+				<attalias Sync="TRUE">S_STATUS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdef Sync="TRUE">Secondary Status - Defines whether a polygon is (A) single permitted site at one time, an (I)nterplanted site in which there are exactly two commodities permitted for the same piece of ground at the same time (First used in 2002), or a (M)ultiple site in which there are three or more commodities permitted for the same piece of ground at the same time (First used in 2005). The (M) designation is used to generally define a piece of ground with numerous very small (&lt;1 acre) intermingled vegetable crop sites.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">DT_ACT</attrlabl>
+				<attalias Sync="TRUE">DT_ACT</attalias>
+				<attrtype Sync="TRUE">Date</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<attrdef Sync="TRUE">Date Activated - Polygon addition date.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">OP_ACT</attrlabl>
+				<attalias Sync="TRUE">OP_ACT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attrdef Sync="TRUE">Operator Activated - Inspector who added the polygon to the database.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">DT_INACT</attrlabl>
+				<attalias Sync="TRUE">DT_INACT</attalias>
+				<attrtype Sync="TRUE">Date</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<attrdef Sync="TRUE">Date Inactivated - Date the polygon (site) was replaced by another polygon (site) or December 31st for sites active at the end of the calendar year.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">OP_INACT</attrlabl>
+				<attalias Sync="TRUE">OP_INACT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attrdef Sync="TRUE">Operator Inactivated - Inspector who archived the polygon.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">COMM</attrlabl>
+				<attalias Sync="TRUE">COMM</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">30</attwidth>
+				<attrdef Sync="TRUE">Commodity - Common name for the permitted crop represented by this polygon.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">RANGE</attrlabl>
+				<attalias Sync="TRUE">RANGE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attrdef Sync="TRUE">Range – Public Land Survey System (PLSS) Range.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">SECTION</attrlabl>
+				<attalias Sync="TRUE">SECTION</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attrdef Sync="TRUE">Section – Public Land Survey (PLSS) Section.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PERMITTEE</attrlabl>
+				<attalias Sync="TRUE">PERMITTEE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<attrdef Sync="TRUE">Permittee – Farming entity name.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PMT_SITE</attrlabl>
+				<attalias Sync="TRUE">PMT_SITE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+				<attrdef Sync="TRUE">Permit-Site - Concatenated value which serves as the unique identifier for each polygon in this database.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">TOWNSHIP</attrlabl>
+				<attalias Sync="TRUE">TOWNSHIP</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Township – Public Land Survey System (PLSS) Township.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">PMT_YEAR</attrlabl>
+				<attalias Sync="TRUE">PMT_YEAR</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attrdef Sync="TRUE">Permit Year – Calendar year for which the polygon is active.  Inspectors begin issuing annual permits in December of the previous year and sometimes enter polygons after the end of the calendar year.</attrdef>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">AGENT</attrlabl>
+				<attalias Sync="TRUE">AGENT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">45</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Agent Name – Primary permit holder's name.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">MAILING</attrlabl>
+				<attalias Sync="TRUE">MAILING</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing Address – Primary permit holder's address or farm headquarters.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">CITY</attrlabl>
+				<attalias Sync="TRUE">CITY</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">100</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing City – Primary permit holder's city.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">STATE</attrlabl>
+				<attalias Sync="TRUE">STATE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing State – Primary permit holder's state.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">ZIP</attrlabl>
+				<attalias Sync="TRUE">ZIP</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Mailing Zip – Primary permit holder's zip code.</attrdef>
+			</attr>
+			<attr xmlns="">
+				<attrlabl Sync="TRUE">ACRES</attrlabl>
+				<attalias Sync="TRUE">ACRES</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Acres Permitted – Grower-provided net planted acres for the site.</attrdef>
+			</attr>
+		</detailed>
+	</eainfo>
+	<dataqual>
+		<complete>The 13,162 individual polygons in this set represent 100% of the crop boundaries permitted in 2003.</complete>
+		<lineage>
+			<srcinfo>
+				<typesrc>digital tape media</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>December 31, 2003</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">L:\kgis2003\kern2003.shp.xml</srcused>
+				<date Sync="TRUE">20001231</date>
+				<time Sync="TRUE">14061200</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">L:\kgis2003\kern2003.shp.xml</srcused>
+				<date Sync="TRUE">20031231</date>
+				<time Sync="TRUE">14073800</time>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<mdLang>
+		<languageCode value="eng"/>
+		<countryCode value="USA" Sync="TRUE"/>
+	</mdLang>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdContact xmlns="">
+		<rpIndName>Mark R. Sabin</rpIndName>
+		<rpOrgName>Kern County Department of Agriculture and Measurement Standards</rpOrgName>
+		<rpPosName>GIS Programmer/Analyst</rpPosName>
+		<rpCntInfo>
+			<cntPhone>
+				<voiceNum>(661) 868-6300</voiceNum>
+				<faxNum>(661) 868-6301</faxNum>
+			</cntPhone>
+			<cntAddress addressType="both">
+				<delPoint>1001 South Mount Vernon Avenue</delPoint>
+				<city>Bakersfield</city>
+				<adminArea>CA</adminArea>
+				<postCode>93307</postCode>
+				<country>US</country>
+				<eMailAdd>sabinm@co.kern.ca.us</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<dataIdInfo>
+		<idCitation xmlns="">
+			<citRespParty xmlns="">
+				<rpOrgName>Kern County Department of Agriculture and Measurement Standards</rpOrgName>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+			</citRespParty>
+			<presForm xmlns="">
+				<PresFormCd value="005" Sync="TRUE"/>
+			</presForm>
+			<resTitle Sync="FALSE">Kern County Crop Boundaries (2003)</resTitle>
+			<date>
+				<pubDate>2017-04-18T08:00:00</pubDate>
+			</date>
+		</idCitation>
+		<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;The Kern County Department of Agriculture and Measurement Standards created this dataset to more precisely locate production agricultural field boundaries within the county.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+		<idPurp>The Department of Agriculture and Measurement Standards issues annual permits to growers who intend to apply restricted materials to commercial crop locations. Each grower must hold a current permit before he/she can purchase these materials. California regulations require that maps of cropland for which the grower is responsible be included in this permitting process. This dataset helps the department assess each site for California Environmental Quality Act (CEQA) equivalency, proximity to sensitive areas, create standardized maps for all sites, and compile a history of land use for Kern County.</idPurp>
+		<idCredit>Inspectors created and maintained this database throughout the year as part of the permitting/supplementing process.</idCredit>
+		<idStatus>
+			<ProgCd value="001"/>
+		</idStatus>
+		<idPoC xmlns="">
+			<rpIndName>Mark R. Sabin</rpIndName>
+			<rpOrgName>Kern County Department of Agriculture and Measurement Standards</rpOrgName>
+			<rpPosName>GIS Programmer/Analyst</rpPosName>
+			<rpCntInfo xmlns="">
+				<cntPhone>
+					<voiceNum tddtty="">(661)868-6300</voiceNum>
+					<faxNum>(661)868-6301</faxNum>
+				</cntPhone>
+				<cntAddress addressType="both">
+					<delPoint>1001 South Mount Vernon Avenue</delPoint>
+					<city>Bakersfield</city>
+					<adminArea>CA</adminArea>
+					<postCode>93307</postCode>
+					<country>US</country>
+					<eMailAdd>sabinm@co.kern.ca.us</eMailAdd>
+				</cntAddress>
+				<cntHours>M-F 8:00 a.m. - 5:00 p.m. Excluding Holidays</cntHours>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<resMaint xmlns="">
+			<maintFreq>
+				<MaintFreqCd value="006"/>
+			</maintFreq>
+		</resMaint>
+		<searchKeys>
+			<keyword>Agriculture</keyword>
+		</searchKeys>
+		<resConst>
+			<LegConsts xmlns="">
+				<useLimit>There are no restrictions on use of these data.</useLimit>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<Consts xmlns="">
+				<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV STYLE="font-size:12pt"&gt;&lt;P&gt;&lt;SPAN&gt;There are no restrictions on use of these data.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+			</Consts>
+		</resConst>
+		<dataLang>
+			<languageCode value="eng"/>
+			<countryCode value="USA" Sync="TRUE"/>
+		</dataLang>
+		<dataExt xmlns="">
+			<exDesc>The year (and optionally month, or month and day) for which the data set corresponds to the ground.</exDesc>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Period xmlns="">
+							<tmBegin date="January 1, 2003">2003-01-01T00:00:00</tmBegin>
+							<tmEnd date="December 31, 2003">2003-12-31T00:00:00</tmEnd>
+						</TM_Period>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.0.5524</envirDesc>
+		<spatRpType>
+			<SpatRepTypCd value="001" Sync="TRUE"/>
+		</spatRpType>
+		<dataExt xmlns="">
+			<geoEle xmlns="">
+				<GeoBndBox esriExtentType="search">
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+					<westBL Sync="TRUE">-120.119879</westBL>
+					<eastBL Sync="TRUE">-117.742499</eastBL>
+					<northBL Sync="TRUE">35.805732</northBL>
+					<southBL Sync="TRUE">34.801514</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+	</dataIdInfo>
+	<Binary>
+		<Enclosure>
+			<Descript>original metadata</Descript>
+			<Data SourceMetadata="yes" OriginalFileName="source_metadata.xml" SourceMetadataDigest="c82572dcabc2401841e78b4d475c0829" EsriPropertyType="Base64" SourceMetadataSchema="fgdc">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxtZXRhZGF0YT4NCiAgPEVz
+cmk+DQogICAgPENyZWFEYXRlPjIwMDMxMjMxPC9DcmVhRGF0ZT4NCiAgICA8Q3JlYVRpbWU+MTQw
+NzM4MDA8L0NyZWFUaW1lPg0KICAgIDxTeW5jT25jZT5GQUxTRTwvU3luY09uY2U+DQogICAgPFN5
+bmNEYXRlPjIwMTcwNTI0PC9TeW5jRGF0ZT4NCiAgICA8U3luY1RpbWU+MTAyMDM3MDA8L1N5bmNU
+aW1lPg0KICAgIDxNb2REYXRlPjIwMTcwNTI0PC9Nb2REYXRlPg0KICAgIDxNb2RUaW1lPjEwMjAz
+NzAwPC9Nb2RUaW1lPg0KICAgIDxTeW5jPkZBTFNFPC9TeW5jPg0KICAgIDxNZXRhSUQ+e0U4M0JB
+OTg3LUJEMkItNDBFNy05MzczLTAyMkJFQ0Q5NzRDM308L01ldGFJRD4NCiAgPC9Fc3JpPg0KICA8
+aWRpbmZvPg0KICAgIDxkZXNjcmlwdD4NCiAgICAgIDxhYnN0cmFjdD5UaGUgS2VybiBDb3VudHkg
+RGVwYXJ0bWVudCBvZiBBZ3JpY3VsdHVyZSBhbmQgTWVhc3VyZW1lbnQgU3RhbmRhcmRzIGNyZWF0
+ZWQgdGhpcyBkYXRhc2V0IHRvIG1vcmUgcHJlY2lzZWx5IGxvY2F0ZSBwcm9kdWN0aW9uIGFncmlj
+dWx0dXJhbCBmaWVsZCBib3VuZGFyaWVzIHdpdGhpbiB0aGUgY291bnR5LjwvYWJzdHJhY3Q+DQog
+ICAgICA8cHVycG9zZT5UaGUgRGVwYXJ0bWVudCBvZiBBZ3JpY3VsdHVyZSBhbmQgTWVhc3VyZW1l
+bnQgU3RhbmRhcmRzIGlzc3VlcyBhbm51YWwgcGVybWl0cyB0byBncm93ZXJzIHdobyBpbnRlbmQg
+dG8gYXBwbHkgcmVzdHJpY3RlZCBtYXRlcmlhbHMgdG8gY29tbWVyY2lhbCBjcm9wIGxvY2F0aW9u
+cy4gIEVhY2ggZ3Jvd2VyIG11c3QgaG9sZCBhIGN1cnJlbnQgcGVybWl0IGJlZm9yZSBoZS9zaGUg
+Y2FuIHB1cmNoYXNlIHRoZXNlIG1hdGVyaWFscy4gIENhbGlmb3JuaWEgcmVndWxhdGlvbnMgcmVx
+dWlyZSB0aGF0IG1hcHMgb2YgY3JvcGxhbmQgZm9yIHdoaWNoIHRoZSBncm93ZXIgaXMgcmVzcG9u
+c2libGUgYmUgaW5jbHVkZWQgaW4gdGhpcyBwZXJtaXR0aW5nIHByb2Nlc3MuICBUaGlzIGRhdGFz
+ZXQgaGVscHMgdGhlIGRlcGFydG1lbnQgYXNzZXNzIGVhY2ggc2l0ZSBmb3IgQ2FsaWZvcm5pYSBF
+bnZpcm9ubWVudGFsIFF1YWxpdHkgQWN0IChDRVFBKSBlcXVpdmFsZW5jeSwgcHJveGltaXR5IHRv
+IHNlbnNpdGl2ZSBhcmVhcywgY3JlYXRlIHN0YW5kYXJkaXplZCBtYXBzIGZvciBhbGwgc2l0ZXMs
+IGFuZCBjb21waWxlIGEgaGlzdG9yeSBvZiBsYW5kIHVzZSBmb3IgS2VybiBDb3VudHkuPC9wdXJw
+b3NlPg0KICAgIDwvZGVzY3JpcHQ+DQogICAgPGNpdGF0aW9uPg0KICAgICAgPGNpdGVpbmZvPg0K
+ICAgICAgICA8b3JpZ2luPktlcm4gQ291bnR5IERlcGFydG1lbnQgb2YgQWdyaWN1bHR1cmUgYW5k
+IE1lYXN1cmVtZW50IFN0YW5kYXJkczwvb3JpZ2luPg0KICAgICAgICA8cHViZGF0ZT5EZWNlbWJl
+ciAzMSwgMjAwMzwvcHViZGF0ZT4NCiAgICAgICAgPHB1YnRpbWU+ODowMCBhLm0uPC9wdWJ0aW1l
+Pg0KICAgICAgICA8ZWRpdGlvbj5GaW5hbDwvZWRpdGlvbj4NCiAgICAgICAgPG9ubGluaz5cXGFn
+LWdpc3Blcm1pdFxHSVNca2dpczIwMDNcZmluYWxfY3JvcHNca2VybjIwMDMuc2hwPC9vbmxpbms+
+DQogICAgICA8L2NpdGVpbmZvPg0KICAgIDwvY2l0YXRpb24+DQogICAgPHRpbWVwZXJkPg0KICAg
+ICAgPGN1cnJlbnQ+Q29pbmNpZGVzIHdpdGggYW5udWFsIHBlcm1pdCBpc3N1YW5jZS48L2N1cnJl
+bnQ+DQogICAgICA8dGltZWluZm8+DQogICAgICAgIDxybmdkYXRlcz4NCiAgICAgICAgICA8YmVn
+ZGF0ZT5KYW51YXJ5IDEsIDIwMDM8L2JlZ2RhdGU+DQogICAgICAgICAgPGVuZGRhdGU+RGVjZW1i
+ZXIgMzEsIDIwMDM8L2VuZGRhdGU+DQogICAgICAgIDwvcm5nZGF0ZXM+DQogICAgICA8L3RpbWVp
+bmZvPg0KICAgIDwvdGltZXBlcmQ+DQogICAgPHN0YXR1cz4NCiAgICAgIDxwcm9ncmVzcz5Db21w
+bGV0ZTwvcHJvZ3Jlc3M+DQogICAgICA8dXBkYXRlPk5vbmUgUGxhbm5lZDwvdXBkYXRlPg0KICAg
+IDwvc3RhdHVzPg0KICAgIDxrZXl3b3Jkcz4NCiAgICAgIDx0aGVtZT4NCiAgICAgICAgPHRoZW1l
+a3Q+ZmFybSwgZmFybWluZywgY3JvcHMsIGNyb3BsYW5kLCByZXN0cmljdGVkIG1hdGVyaWFscywg
+cGVzdGljaWRlIHVzZSwgcGVybWl0dGluZywgQ0EgYWdyaWN1bHR1cmUsIGNyb3BwaW5nIHBhdHRl
+cm5zPC90aGVtZWt0Pg0KICAgICAgICA8dGhlbWVrZXk+QWdyaWN1bHR1cmU8L3RoZW1la2V5Pg0K
+ICAgICAgPC90aGVtZT4NCiAgICA8L2tleXdvcmRzPg0KICAgIDxhY2Njb25zdD5UaGVzZSBhcmUg
+cHVibGljIGRvbWFpbiBkYXRhLjwvYWNjY29uc3Q+DQogICAgPHVzZWNvbnN0PlRoZXJlIGFyZSBu
+byByZXN0cmljdGlvbnMgb24gdXNlIG9mIHRoZXNlIGRhdGEuPC91c2Vjb25zdD4NCiAgICA8ZGF0
+YWNyZWQ+SW5zcGVjdG9ycyBjcmVhdGVkIGFuZCBtYWludGFpbmVkIHRoaXMgZGF0YWJhc2UgdGhy
+b3VnaG91dCB0aGUgeWVhciBhcyBwYXJ0IG9mIHRoZSBwZXJtaXR0aW5nL3N1cHBsZW1lbnRpbmcg
+cHJvY2Vzcy48L2RhdGFjcmVkPg0KICAgIDxwdGNvbnRhYz4NCiAgICAgIDxjbnRpbmZvPg0KICAg
+ICAgICA8Y250b3JncD4NCiAgICAgICAgICA8Y250b3JnPktlcm4gQ291bnR5IERlcGFydG1lbnQg
+b2YgQWdyaWN1bHR1cmUgYW5kIE1lYXN1cmVtZW50IFN0YW5kYXJkczwvY250b3JnPg0KICAgICAg
+ICAgIDxjbnRwZXI+TWFyayBSLiBTYWJpbjwvY250cGVyPg0KICAgICAgICA8L2NudG9yZ3A+DQog
+ICAgICAgIDxjbnRwb3M+R0lTIFByb2dyYW1tZXIvQW5hbHlzdDwvY250cG9zPg0KICAgICAgICA8
+Y250dm9pY2U+KDY2MSk4NjgtNjMwMDwvY250dm9pY2U+DQogICAgICAgIDxjbnRmYXg+KDY2MSk4
+NjgtNjMwMTwvY250ZmF4Pg0KICAgICAgICA8Y250ZW1haWw+c2FiaW5tQGNvLmtlcm4uY2EudXM8
+L2NudGVtYWlsPg0KICAgICAgICA8aG91cnM+TS1GICA4OjAwIGEubS4gLSA1OjAwIHAubS4gRXhj
+bHVkaW5nIEhvbGlkYXlzPC9ob3Vycz4NCiAgICAgICAgPGNudGFkZHI+DQogICAgICAgICAgPGFk
+ZHJ0eXBlPm1haWxpbmcgYW5kIHBoeXNpY2FsIGFkZHJlc3M8L2FkZHJ0eXBlPg0KICAgICAgICAg
+IDxhZGRyZXNzPjEwMDEgU291dGggTW91bnQgVmVybm9uIEF2ZW51ZTwvYWRkcmVzcz4NCiAgICAg
+ICAgICA8Y2l0eT5CYWtlcnNmaWVsZDwvY2l0eT4NCiAgICAgICAgICA8c3RhdGU+Q0E8L3N0YXRl
+Pg0KICAgICAgICAgIDxwb3N0YWw+OTMzMDc8L3Bvc3RhbD4NCiAgICAgICAgICA8Y291bnRyeT5V
+U0E8L2NvdW50cnk+DQogICAgICAgIDwvY250YWRkcj4NCiAgICAgIDwvY250aW5mbz4NCiAgICA8
+L3B0Y29udGFjPg0KICA8L2lkaW5mbz4NCiAgPG1ldGFpbmZvPg0KICAgIDxtZXRjPg0KICAgICAg
+PGNudGluZm8+DQogICAgICAgIDxjbnRvcmdwPg0KICAgICAgICAgIDxjbnRwZXI+TWFyayBSLiBT
+YWJpbjwvY250cGVyPg0KICAgICAgICAgIDxjbnRvcmc+S2VybiBDb3VudHkgRGVwYXJ0bWVudCBv
+ZiBBZ3JpY3VsdHVyZSBhbmQgTWVhc3VyZW1lbnQgU3RhbmRhcmRzPC9jbnRvcmc+DQogICAgICAg
+IDwvY250b3JncD4NCiAgICAgICAgPGNudGFkZHI+DQogICAgICAgICAgPGFkZHJ0eXBlPm1haWxp
+bmcgYW5kIHBoeXNpY2FsIGFkZHJlc3M8L2FkZHJ0eXBlPg0KICAgICAgICAgIDxjaXR5PkJha2Vy
+c2ZpZWxkPC9jaXR5Pg0KICAgICAgICAgIDxzdGF0ZT5DQTwvc3RhdGU+DQogICAgICAgICAgPHBv
+c3RhbD45MzMwNzwvcG9zdGFsPg0KICAgICAgICAgIDxhZGRyZXNzPjEwMDEgU291dGggTW91bnQg
+VmVybm9uIEF2ZW51ZTwvYWRkcmVzcz4NCiAgICAgICAgICA8Y291bnRyeT5VU0E8L2NvdW50cnk+
+DQogICAgICAgIDwvY250YWRkcj4NCiAgICAgICAgPGNudHZvaWNlPig2NjEpIDg2OC02MzAwPC9j
+bnR2b2ljZT4NCiAgICAgICAgPGNudGZheD4oNjYxKSA4NjgtNjMwMTwvY250ZmF4Pg0KICAgICAg
+ICA8Y250ZW1haWw+c2FiaW5tQGNvLmtlcm4uY2EudXM8L2NudGVtYWlsPg0KICAgICAgICA8Y250
+cG9zPkdJUyBQcm9ncmFtbWVyL0FuYWx5c3Q8L2NudHBvcz4NCiAgICAgIDwvY250aW5mbz4NCiAg
+ICA8L21ldGM+DQogICAgPG1ldHNpPg0KICAgICAgPG1ldHNjPlVuY2xhc3NpZmllZDwvbWV0c2M+
+DQogICAgPC9tZXRzaT4NCiAgPC9tZXRhaW5mbz4NCiAgPGRpc3RpbmZvPg0KICAgIDxhdmFpbGFi
+bD4NCiAgICAgIDx0aW1laW5mbz4NCiAgICAgICAgPHJuZ2RhdGVzPg0KICAgICAgICAgIDxiZWdk
+YXRlPkphbnVhcnkgMSwgMjAwMzwvYmVnZGF0ZT4NCiAgICAgICAgICA8ZW5kZGF0ZT5EZWNlbWJl
+ciAzMSwgMjAwMzwvZW5kZGF0ZT4NCiAgICAgICAgPC9ybmdkYXRlcz4NCiAgICAgIDwvdGltZWlu
+Zm8+DQogICAgPC9hdmFpbGFibD4NCiAgPC9kaXN0aW5mbz4NCiAgPGVhaW5mbz4NCiAgICA8ZGV0
+YWlsZWQgTmFtZT0ia2VybjIwMDMiPg0KICAgICAgPGVudHR5cD4NCiAgICAgICAgPGVudHR5cGwg
+U3luYz0iVFJVRSI+a2VybjIwMDM8L2VudHR5cGw+DQogICAgICAgIDxlbnR0eXB0IFN5bmM9IlRS
+VUUiPkZlYXR1cmUgQ2xhc3M8L2VudHR5cHQ+DQogICAgICAgIDxlbnR0eXBjIFN5bmM9IlRSVUUi
+PjEzMTYyPC9lbnR0eXBjPg0KICAgICAgPC9lbnR0eXA+DQogICAgICA8YXR0cj4NCiAgICAgICAg
+PGF0dHJsYWJsIFN5bmM9IlRSVUUiPkZJRDwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBT
+eW5jPSJUUlVFIj5GSUQ8L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+
+T0lEPC9hdHRydHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjQ8L2F0dHdpZHRo
+Pg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxh
+dHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgICAgPGF0dHJkZWYgU3luYz0i
+VFJVRSI+SW50ZXJuYWwgZmVhdHVyZSBudW1iZXIuPC9hdHRyZGVmPg0KICAgICAgICA8YXR0cmRl
+ZnMgU3luYz0iVFJVRSI+RVNSSTwvYXR0cmRlZnM+DQogICAgICAgIDxhdHRyZG9tdj4NCiAgICAg
+ICAgICA8dWRvbSBTeW5jPSJUUlVFIj5TZXF1ZW50aWFsIHVuaXF1ZSB3aG9sZSBudW1iZXJzIHRo
+YXQgYXJlIGF1dG9tYXRpY2FsbHkgZ2VuZXJhdGVkLjwvdWRvbT4NCiAgICAgICAgPC9hdHRyZG9t
+dj4NCiAgICAgICAgPGF0dHJtZnJxPk5vbmUgcGxhbm5lZDwvYXR0cm1mcnE+DQogICAgICA8L2F0
+dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPlNoYXBlPC9h
+dHRybGFibD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPlNoYXBlPC9hdHRhbGlhcz4N
+CiAgICAgICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPkdlb21ldHJ5PC9hdHRydHlwZT4NCiAgICAg
+ICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjA8L2F0dHdpZHRoPg0KICAgICAgICA8YXRwcmVjaXMg
+U3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4w
+PC9hdHRzY2FsZT4NCiAgICAgICAgPGF0dHJkZWYgU3luYz0iVFJVRSI+RmVhdHVyZSBnZW9tZXRy
+eS48L2F0dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcyBTeW5jPSJUUlVFIj5FU1JJPC9hdHRyZGVm
+cz4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tIFN5bmM9IlRSVUUiPkNvb3Jk
+aW5hdGVzIGRlZmluaW5nIHRoZSBmZWF0dXJlcy48L3Vkb20+DQogICAgICAgIDwvYXR0cmRvbXY+
+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRS
+VUUiPlBFUk1JVDwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5QRVJN
+SVQ8L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRy
+dHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjc8L2F0dHdpZHRoPg0KICAgICAg
+ICA8YXR0cmRlZiBTeW5jPSJUUlVFIj5QZXJtaXQgLSBVbmlxdWVseSBpZGVudGlmaWVzIGFuIGlu
+ZGl2aWR1YWwgZ3Jvd2VyIHRocm91Z2ggdGltZS4gRWFjaCBncm93ZXIgbWFpbnRhaW5zIHRoZSBz
+YW1lIHBlcm1pdCBudW1iZXIgZnJvbSB5ZWFyIHRvIHllYXIuIEZpcnN0IHRpbWUgcGVybWl0dGVl
+cyBvYnRhaW4gYSBuZXcsIG5ldmVyIGJlZm9yZSB1c2VkIHBlcm1pdCBudW1iZXIgaW4gb3JkZXIg
+dG8gYXZvaWQgc2FtZSB2YWx1ZXMgdGhhdCByZWZlcmVuY2UgZGlmZmVyZW50IGdyb3dlcnMgdGhy
+b3VnaCB0aW1lLjwvYXR0cmRlZj4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0
+cHJlY2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAg
+ICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPlNJ
+VEVJRDwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5TSVRFSUQ8L2F0
+dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4N
+CiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjg8L2F0dHdpZHRoPg0KICAgICAgICA8YXR0
+cmRlZiBTeW5jPSJUUlVFIj5TaXRlIElkZW50aWZpY2F0aW9uIC0gVW5pcXVlbHkgaWRlbnRpZmll
+cyBlYWNoIHBlcm1pdHRlZCBzaXRlIChwb2x5Z29uKSBvbiBhIGdyb3dlciBwZXJtaXQuIFRoaXMg
+dmFsdWUgd2lsbCBub3QgYmUgZHVwbGljYXRlZCBvbiB0aGUgc2FtZSBwZXJtaXQgaW4gdGhlIHNh
+bWUgeWVhci4gIFRoZXNlIHZhbHVlcyBtYXkgYmUgdXNlZCBhZ2FpbiBmcm9tIHllYXIgdG8geWVh
+ciBieSBhIHBlcm1pdHRlZSBidXQgbWF5IG5vdCBhbHdheXMgcmVmZXJlbmNlIHRoZSBzYW1lIHBp
+ZWNlIG9mIGdyb3VuZCBmcm9tIHllYXIgdG8geWVhciAoaS5lLiBTaXRlIElEIDEyMkEgbWF5IGJl
+IHJlZmVyZW5jZWQgb24gYW4gaW5kaXZpZHVhbCBwZXJtaXQgb3ZlciBtYW55IHllYXJzLCBidXQg
+bWF5IG5vdCBhbHdheXMgcmVmZXIgdG8gdGhlIHNhbWUgcGllY2Ugb2YgZ3JvdW5kIGVhY2ggeWVh
+cikuPC9hdHRyZGVmPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+
+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0
+cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+UF9TVEFUVVM8
+L2F0dHJsYWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+UF9TVEFUVVM8L2F0dGFs
+aWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4NCiAg
+ICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjE8L2F0dHdpZHRoPg0KICAgICAgICA8YXR0cmRl
+ZiBTeW5jPSJUUlVFIj5QcmltYXJ5IFN0YXR1cyAtIERlZmluZXMgd2hldGhlciBhIHBvbHlnb24g
+aXMgKEEpY3RpdmUgb3IgaShOKWFjdGl2ZS48L2F0dHJkZWY+DQogICAgICAgIDxhdHByZWNpcyBT
+eW5jPSJUUlVFIj4wPC9hdHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUiPjA8
+L2F0dHNjYWxlPg0KICAgICAgPC9hdHRyPg0KICAgICAgPGF0dHI+DQogICAgICAgIDxhdHRybGFi
+bCBTeW5jPSJUUlVFIj5TX1NUQVRVUzwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5j
+PSJUUlVFIj5TX1NUQVRVUzwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJUUlVF
+Ij5TdHJpbmc8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+MTwvYXR0
+d2lkdGg+DQogICAgICAgIDxhdHRyZGVmIFN5bmM9IlRSVUUiPlNlY29uZGFyeSBTdGF0dXMgLSBE
+ZWZpbmVzIHdoZXRoZXIgYSBwb2x5Z29uIGlzIChBKSBzaW5nbGUgcGVybWl0dGVkIHNpdGUgYXQg
+b25lIHRpbWUsIGFuIChJKW50ZXJwbGFudGVkIHNpdGUgaW4gd2hpY2ggdGhlcmUgYXJlIGV4YWN0
+bHkgdHdvIGNvbW1vZGl0aWVzIHBlcm1pdHRlZCBmb3IgdGhlIHNhbWUgcGllY2Ugb2YgZ3JvdW5k
+IGF0IHRoZSBzYW1lIHRpbWUgKEZpcnN0IHVzZWQgaW4gMjAwMiksIG9yIGEgKE0pdWx0aXBsZSBz
+aXRlIGluIHdoaWNoIHRoZXJlIGFyZSB0aHJlZSBvciBtb3JlIGNvbW1vZGl0aWVzIHBlcm1pdHRl
+ZCBmb3IgdGhlIHNhbWUgcGllY2Ugb2YgZ3JvdW5kIGF0IHRoZSBzYW1lIHRpbWUgKEZpcnN0IHVz
+ZWQgaW4gMjAwNSkuIFRoZSAoTSkgZGVzaWduYXRpb24gaXMgdXNlZCB0byBnZW5lcmFsbHkgZGVm
+aW5lIGEgcGllY2Ugb2YgZ3JvdW5kIHdpdGggbnVtZXJvdXMgdmVyeSBzbWFsbCAoJmx0OzEgYWNy
+ZSkgaW50ZXJtaW5nbGVkIHZlZ2V0YWJsZSBjcm9wIHNpdGVzLjwvYXR0cmRlZj4NCiAgICAgICAg
+PGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3lu
+Yz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAg
+ICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPkRUX0FDVDwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRh
+bGlhcyBTeW5jPSJUUlVFIj5EVF9BQ1Q8L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3lu
+Yz0iVFJVRSI+RGF0ZTwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5jPSJUUlVFIj44
+PC9hdHR3aWR0aD4NCiAgICAgICAgPGF0dHJkZWYgU3luYz0iVFJVRSI+RGF0ZSBBY3RpdmF0ZWQg
+LSBQb2x5Z29uIGFkZGl0aW9uIGRhdGUuPC9hdHRyZGVmPg0KICAgICAgICA8YXRwcmVjaXMgU3lu
+Yz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9h
+dHRzY2FsZT4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwg
+U3luYz0iVFJVRSI+T1BfQUNUPC9hdHRybGFibD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRS
+VUUiPk9QX0FDVDwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJUUlVFIj5TdHJp
+bmc8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+MzwvYXR0d2lkdGg+
+DQogICAgICAgIDxhdHRyZGVmIFN5bmM9IlRSVUUiPk9wZXJhdG9yIEFjdGl2YXRlZCAtIEluc3Bl
+Y3RvciB3aG8gYWRkZWQgdGhlIHBvbHlnb24gdG8gdGhlIGRhdGFiYXNlLjwvYXR0cmRlZj4NCiAg
+ICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2Nh
+bGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4N
+CiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPkRUX0lOQUNUPC9hdHRybGFibD4NCiAgICAg
+ICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPkRUX0lOQUNUPC9hdHRhbGlhcz4NCiAgICAgICAgPGF0
+dHJ0eXBlIFN5bmM9IlRSVUUiPkRhdGU8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3lu
+Yz0iVFJVRSI+ODwvYXR0d2lkdGg+DQogICAgICAgIDxhdHRyZGVmIFN5bmM9IlRSVUUiPkRhdGUg
+SW5hY3RpdmF0ZWQgLSBEYXRlIHRoZSBwb2x5Z29uIChzaXRlKSB3YXMgcmVwbGFjZWQgYnkgYW5v
+dGhlciBwb2x5Z29uIChzaXRlKSBvciBEZWNlbWJlciAzMXN0IGZvciBzaXRlcyBhY3RpdmUgYXQg
+dGhlIGVuZCBvZiB0aGUgY2FsZW5kYXIgeWVhci48L2F0dHJkZWY+DQogICAgICAgIDxhdHByZWNp
+cyBTeW5jPSJUUlVFIj4wPC9hdHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUi
+PjA8L2F0dHNjYWxlPg0KICAgICAgPC9hdHRyPg0KICAgICAgPGF0dHI+DQogICAgICAgIDxhdHRy
+bGFibCBTeW5jPSJUUlVFIj5PUF9JTkFDVDwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBT
+eW5jPSJUUlVFIj5PUF9JTkFDVDwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJU
+UlVFIj5TdHJpbmc8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+Mzwv
+YXR0d2lkdGg+DQogICAgICAgIDxhdHRyZGVmIFN5bmM9IlRSVUUiPk9wZXJhdG9yIEluYWN0aXZh
+dGVkIC0gSW5zcGVjdG9yIHdobyBhcmNoaXZlZCB0aGUgcG9seWdvbi48L2F0dHJkZWY+DQogICAg
+ICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4wPC9hdHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxl
+IFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxlPg0KICAgICAgPC9hdHRyPg0KICAgICAgPGF0dHI+DQog
+ICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5DT01NPC9hdHRybGFibD4NCiAgICAgICAgPGF0
+dGFsaWFzIFN5bmM9IlRSVUUiPkNPTU08L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3lu
+Yz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUi
+PjMwPC9hdHR3aWR0aD4NCiAgICAgICAgPGF0dHJkZWYgU3luYz0iVFJVRSI+Q29tbW9kaXR5IC0g
+Q29tbW9uIG5hbWUgZm9yIHRoZSBwZXJtaXR0ZWQgY3JvcCByZXByZXNlbnRlZCBieSB0aGlzIHBv
+bHlnb24uPC9hdHRyZGVmPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVj
+aXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwv
+YXR0cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+UkFOR0U8
+L2F0dHJsYWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+UkFOR0U8L2F0dGFsaWFz
+Pg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4NCiAgICAg
+ICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjM8L2F0dHdpZHRoPg0KICAgICAgICA8YXR0cmRlZiBT
+eW5jPSJUUlVFIj5SYW5nZSDigJMgUHVibGljIExhbmQgU3VydmV5IFN5c3RlbSAoUExTUykgUmFu
+Z2UuPC9hdHRyZGVmPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+
+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0
+cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+U0VDVElPTjwv
+YXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5TRUNUSU9OPC9hdHRhbGlh
+cz4NCiAgICAgICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPlN0cmluZzwvYXR0cnR5cGU+DQogICAg
+ICAgIDxhdHR3aWR0aCBTeW5jPSJUUlVFIj4yPC9hdHR3aWR0aD4NCiAgICAgICAgPGF0dHJkZWYg
+U3luYz0iVFJVRSI+U2VjdGlvbiDigJMgUHVibGljIExhbmQgU3VydmV5IChQTFNTKSBTZWN0aW9u
+LjwvYXR0cmRlZj4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0K
+ICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+
+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPlBFUk1JVFRFRTwv
+YXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5QRVJNSVRURUU8L2F0dGFs
+aWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4NCiAg
+ICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjQwPC9hdHR3aWR0aD4NCiAgICAgICAgPGF0dHJk
+ZWYgU3luYz0iVFJVRSI+UGVybWl0dGVlIOKAkyBGYXJtaW5nIGVudGl0eSBuYW1lLjwvYXR0cmRl
+Zj4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8
+YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8
+YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPlBNVF9TSVRFPC9hdHRybGFibD4N
+CiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPlBNVF9TSVRFPC9hdHRhbGlhcz4NCiAgICAg
+ICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPlN0cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3
+aWR0aCBTeW5jPSJUUlVFIj4xNTwvYXR0d2lkdGg+DQogICAgICAgIDxhdHRyZGVmIFN5bmM9IlRS
+VUUiPlBlcm1pdC1TaXRlIC0gQ29uY2F0ZW5hdGVkIHZhbHVlIHdoaWNoIHNlcnZlcyBhcyB0aGUg
+dW5pcXVlIGlkZW50aWZpZXIgZm9yIGVhY2ggcG9seWdvbiBpbiB0aGlzIGRhdGFiYXNlLjwvYXR0
+cmRlZj4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAg
+ICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAg
+ICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPlRPV05TSElQPC9hdHRybGFi
+bD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPlRPV05TSElQPC9hdHRhbGlhcz4NCiAg
+ICAgICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPlN0cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxh
+dHR3aWR0aCBTeW5jPSJUUlVFIj4zPC9hdHR3aWR0aD4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9
+IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0
+c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5
+bmM9IlRSVUUiPlBNVF9ZRUFSPC9hdHRybGFibD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRS
+VUUiPlBNVF9ZRUFSPC9hdHRhbGlhcz4NCiAgICAgICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPlN0
+cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5jPSJUUlVFIj40PC9hdHR3aWR0
+aD4NCiAgICAgICAgPGF0dHJkZWYgU3luYz0iVFJVRSI+UGVybWl0IFllYXIg4oCTIENhbGVuZGFy
+IHllYXIgZm9yIHdoaWNoIHRoZSBwb2x5Z29uIGlzIGFjdGl2ZS4gIEluc3BlY3RvcnMgYmVnaW4g
+aXNzdWluZyBhbm51YWwgcGVybWl0cyBpbiBEZWNlbWJlciBvZiB0aGUgcHJldmlvdXMgeWVhciBh
+bmQgc29tZXRpbWVzIGVudGVyIHBvbHlnb25zIGFmdGVyIHRoZSBlbmQgb2YgdGhlIGNhbGVuZGFy
+IHllYXIuPC9hdHRyZGVmPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVj
+aXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwv
+YXR0cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+QUdFTlQ8
+L2F0dHJsYWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+QUdFTlQ8L2F0dGFsaWFz
+Pg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4NCiAgICAg
+ICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjQ1PC9hdHR3aWR0aD4NCiAgICAgICAgPGF0cHJlY2lz
+IFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+
+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJs
+YWJsIFN5bmM9IlRSVUUiPk1BSUxJTkc8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3lu
+Yz0iVFJVRSI+TUFJTElORzwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJUUlVF
+Ij5TdHJpbmc8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+NDA8L2F0
+dHdpZHRoPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAg
+ICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0cj4NCiAg
+ICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+Q0lUWTwvYXR0cmxhYmw+
+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5DSVRZPC9hdHRhbGlhcz4NCiAgICAgICAg
+PGF0dHJ0eXBlIFN5bmM9IlRSVUUiPlN0cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0
+aCBTeW5jPSJUUlVFIj4xMDA8L2F0dHdpZHRoPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJV
+RSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2Fs
+ZT4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0i
+VFJVRSI+U1RBVEU8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+U1RB
+VEU8L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRy
+dHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjI8L2F0dHdpZHRoPg0KICAgICAg
+ICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBT
+eW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxhdHRyPg0KICAg
+ICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+WklQPC9hdHRybGFibD4NCiAgICAgICAgPGF0dGFs
+aWFzIFN5bmM9IlRSVUUiPlpJUDwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJU
+UlVFIj5TdHJpbmc8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+MTA8
+L2F0dHdpZHRoPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQog
+ICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0cj4N
+CiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+QUNSRVM8L2F0dHJs
+YWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+QUNSRVM8L2F0dGFsaWFzPg0KICAg
+ICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+RG91YmxlPC9hdHRydHlwZT4NCiAgICAgICAgPGF0
+dHdpZHRoIFN5bmM9IlRSVUUiPjE5PC9hdHR3aWR0aD4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9
+IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0
+c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgPC9kZXRhaWxlZD4NCiAgPC9lYWluZm8+DQogIDxk
+YXRhcXVhbD4NCiAgICA8Y29tcGxldGU+VGhlIDEzLDE2MiBpbmRpdmlkdWFsIHBvbHlnb25zIGlu
+IHRoaXMgc2V0IHJlcHJlc2VudCAxMDAlIG9mIHRoZSBjcm9wIGJvdW5kYXJpZXMgcGVybWl0dGVk
+IGluIDIwMDMuPC9jb21wbGV0ZT4NCiAgICA8bGluZWFnZT4NCiAgICAgIDxzcmNpbmZvPg0KICAg
+ICAgICA8dHlwZXNyYz5kaWdpdGFsIHRhcGUgbWVkaWE8L3R5cGVzcmM+DQogICAgICAgIDxzcmN0
+aW1lPg0KICAgICAgICAgIDx0aW1laW5mbz4NCiAgICAgICAgICAgIDxzbmdkYXRlPg0KICAgICAg
+ICAgICAgICA8Y2FsZGF0ZT5EZWNlbWJlciAzMSwgMjAwMzwvY2FsZGF0ZT4NCiAgICAgICAgICAg
+IDwvc25nZGF0ZT4NCiAgICAgICAgICA8L3RpbWVpbmZvPg0KICAgICAgICAgIDxzcmNjdXJyPnB1
+YmxpY2F0aW9uIGRhdGU8L3NyY2N1cnI+DQogICAgICAgIDwvc3JjdGltZT4NCiAgICAgIDwvc3Jj
+aW5mbz4NCiAgICA8L2xpbmVhZ2U+DQogIDwvZGF0YXF1YWw+DQo8L21ldGFkYXRhPg==</Data>
+		</Enclosure>
+	</Binary>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode code="2229" Sync="TRUE"/>
+				<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+				<idVersion Sync="TRUE">5.3(9.0.0)</idVersion>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs Name="kern2003">
+				<geoObjTyp>
+					<GeoObjTypCd value="002" Sync="TRUE"/>
+				</geoObjTyp>
+				<geoObjCnt Sync="TRUE">13162</geoObjCnt>
+			</geometObjs>
+			<topLvl>
+				<TopoLevCd value="001" Sync="TRUE"/>
+			</topLvl>
+		</VectSpatRep>
+	</spatRepInfo>
+	<mdDateSt Sync="TRUE">20170524</mdDateSt>
+	<mdMaint xmlns="">
+		<maintFreq>
+			<MaintFreqCd value="006"/>
+		</maintFreq>
+	</mdMaint>
+</metadata>

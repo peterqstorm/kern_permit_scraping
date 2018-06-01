@@ -5,7 +5,7 @@
 
 #ignore kern_county_permit_data
 #all data files can be downloaded at following link:
-#http://www.kernag.com/gis/gis-data.asp
+#git push -u origin master
 *.dbf
 *.prj
 *.shp

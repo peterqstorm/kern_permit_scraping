@@ -1,0 +1,16 @@
+#Kern County Scraping Git Ignore File
+#Peter Storm
+#pqs4@cornell.edu
+
+
+#ignore outline shape files
+#all data files can be downloaded at following link:
+#https://www.dropbox.com/sh/my4mu90qxlex8cg/AAAfKRVeCcIzvAceMzDypVnSa?dl=0
+*.sbn
+*.sbx
+*.dbf
+*.shp.xml
+*.shx
+*.prj
+*.cpg
+*.shp

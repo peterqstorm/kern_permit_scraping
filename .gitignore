@@ -6,4 +6,4 @@
 #ignore kern_county_permit_data
 #all data files can be downloaded at following link:
 #git push -u origin master
-kern_county_permit_data/
+kern_county_permit_data/*

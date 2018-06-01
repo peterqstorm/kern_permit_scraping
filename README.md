@@ -5,6 +5,6 @@ ArcPy is the primary Python library utilized and requires an ESRI license to run
 Most datafiles need to be downloaded prior to running this script. Links to the data are located within their given folders in ~/data/.
 
 The following folders require attention: 
-~/data/atlas_i15_CropMapping2014 
-~/data/kern_county_permit_data 
-~/data/water_district_shape_files 
+~/data/atlas_i15_CropMapping2014, 
+~/data/kern_county_permit_data, 
+~/data/water_district_shape_files, 

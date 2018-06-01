@@ -1,1 +1,1 @@
-Output of the water district boundaries of interest.
+Output of the water district boundaries of interest. Note that you will have to run the script [insert name] to have any files in this folder.

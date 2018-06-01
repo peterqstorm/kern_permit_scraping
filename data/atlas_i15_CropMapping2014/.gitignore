@@ -1,0 +1,17 @@
+#Kern County Scraping Git Ignore File
+#Peter Storm
+#pqs4@cornell.edu
+
+
+#ignore kern_county_permit_data
+#all data files can be downloaded at following link:
+#https://www.dropbox.com/sh/3ckubgoo21zpcq4/AAAqc1jWNA7thvU3Q6SE1jIja?dl=0
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shp.xml
+*.shx
+*.pdf

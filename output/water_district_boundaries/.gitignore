@@ -1,0 +1,16 @@
+#Kern County Scraping Git Ignore File
+#Peter Storm
+#pqs4@cornell.edu
+
+
+#ignore clipped outline shape files
+#run the script to generate these files
+*.sbn
+*.sbx
+*.dbf
+*.shp.xml
+*.shx
+*.prj
+*.cpg
+*.shp
+*.shx
